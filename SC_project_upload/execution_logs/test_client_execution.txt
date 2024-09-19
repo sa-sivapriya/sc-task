@@ -1,0 +1,23 @@
+(Task) PS D:\SC_project\TASK_2> python .\test_client.py
+Initialization .....
+Initialized
+Test get all entries
+[[['7h9r'], '.7h9r', '', 'README_.TXT', '', 'AES', '', ['http://www.nyxbone.com/malware/7h9r.html'], ''], [['8lock8'], '.8lock8', '', 'READ_IT.txt', 'Based on HiddenTear', 'AES(256)', '', ['http://www.bleepingcomputer.com/forums/t/614025/8lock8-help-support-topic-8lock8-read-ittxt/'], ''], [['AiraCrop'], '._AiraCropEncrypted', '', 'How to decrypt your files.txt', 'related to TeamXRat', '', '', ['https://twitter.com/PolarToffee/status/796079699478900736'], ''], [['Alcatraz Locker'], '.Alcatraz', '', 'ransomed.html', '', '', '', ['https://twitter.com/PolarToffee/status/792796055020642304'], ''], [['Alpha Ransomware', 'AlphaLocker'], '.encrypt', '', 'Read Me (How Decrypt) !!!!.txt', '', 'AES(256)', '', ['http://download.bleepingcomputer.com/demonslay335/AlphaDecrypter.zip', 'http://www.bleepingcomputer.com/news/security/decrypted-alpha-ransomware-continues-the-trend-of-accepting-amazon-cards/'], 'https://twitter.com/malwarebread/status/804714048499621888'], [['Alphabet'], '', '', '', "Doesn't encrypt any files / provides you the key", '', '', ['https://twitter.com/PolarToffee/status/812331918633172992'], ''], [['Angela Merkel'], '.angelamerkel', '', '', '', '', '', ['https://twitter.com/malwrhunterteam/status/798268218364358656'], ''], [['AngleWare'], '.AngleWare', '', 'READ_ME.txt', '', '', '', ['https://twitter.com/BleepinComputer/status/844531418474708993'], ''], [['Angry Duck'], '.adk', '', '', 'Demands 10 BTC', '', '', ['https://twitter.com/demonslay335/status/790334746488365057'], ''], [['Anony', 'Based on HiddenTear\\nngocanh'], '', '', '', '', '', '', ['https://twitter.com/struppigel/status/842047409446387714'], ''], [['Anubis'], '.coded', '', 'Decryption Instructions.txt', 'EDA2', 'AES(256)', '', ['http://nyxbone.com/malware/Anubis.html'], ''], [['ASN1'], '', '', '!!!!!readme!!!!!.htm', '', '', '', ['https://malwarebreakdown.com/2017/03/02/rig-ek-at-92-53-105-43-drops-asn1-ransomware/'], ''], [['Angry Duck'], '.adk', '', '', 'Demands 10 BTC', '', '', ['https://twitter.com/demonslay335/status/790334746488365057'], ''], [['Anony', 'Based on HiddenTear\\nngocanh'], '', '', '', '', '', '', ['https://twitter.com/struppigel/status/842047409446387714'], ''], [['Anubis'], '.coded', '', 'Decryption Instructions.txt', 'EDA2', 'AES(256)', '', ['http://nyxbone.com/malware/Anubis.html'], ''], [['ASN1'], '', '', '!!!!!readme!!!!!.htm', '', '', '', ['https://malwarebreakdown.com/2017/03/02/rig-ek-at-92-53-105-43-drops-asn1-ransomware/'], ''], [['Aw3s0m3Sc0t7'], '.enc', '', '', '', '', '', ['https://twitter.com/struppigel/status/828902907668000770'], ''], [['BadBlock'], '', '', 'Help Decrypt.html', '', '', '', ['https://decrypter.emsisoft.com/badblock', 'http://www.nyxbone.com/malware/BadBlock.html'], ''], [['BadEncript'], '.bript', '', 'More.html', '', 
+'', '', ['https://twitter.com/demonslay335/status/813064189719805952'], ''], [['.CryptoHasYou.'], '.enc', '', ' YOUR_FILES_ARE_LOCKED.txt', '', 'AES(256)', '', ['http://www.nyxbone.com/malware/CryptoHasYou.html'], ''], [['7ev3n', '7ev3n-HONE$T'], '.R4A\n.R5A', '', 'FILES_BACK.txt', '', '', '', ['https://github.com/hasherezade/malware_analysis/tree/master/7ev3n\\nhttps://www.youtube.com/watch?v=RDNbH5HDO1E&feature=youtu.be', 'http://www.nyxbone.com/malware/7ev3n-HONE$T.html\\n'], ''], [['BaksoCrypt'], '.adr', '', '', 'Based on my-Little-Ransomware', '', '', ['https://twitter.com/JakubKroustek/status/760482299007922176'], 'https://0xc1r3ng.wordpress.com/2016/06/24/bakso-crypt-simple-ransomware/']]
+Test get one entry
+[['7ev3n', '7ev3n-HONE$T'], '.R4A\n.R5A', '', 'FILES_BACK.txt', '', '', '', ['https://github.com/hasherezade/malware_analysis/tree/master/7ev3n\\nhttps://www.youtube.com/watch?v=RDNbH5HDO1E&feature=youtu.be', 'http://www.nyxbone.com/malware/7ev3n-HONE$T.html\\n'], '']
+Test add entry
+Name already exsist 
+Test get created entry
+[['BaksoCrypt'], '.adr', '', '', 'Based on my-Little-Ransomware', '', '', ['https://twitter.com/JakubKroustek/status/760482299007922176'], 'https://0xc1r3ng.wordpress.com/2016/06/24/bakso-crypt-simple-ransomware/']
+Test Update created entry
+Data updated
+Test get updated entry
+[['BaksoCrypt'], '.adr', '', '', 'Based on my-Little-Ransomware', '', 'Test', ['https://twitter.com/JakubKroustek/status/760482299007922176'], 'https://0xc1r3ng.wordpress.com/2016/06/24/bakso-crypt-simple-ransomware/']
+Test Delete created entry
+Data Deleted
+Test get Deleted entry
+Data not Found
+(Task) PS D:\SC_project\TASK_2>
+
+

@@ -1,0 +1,283 @@
+[
+    {
+        "name": [
+            ".CryptoHasYou."
+        ],
+        "extensions": ".enc",
+        "extensionPattern": "",
+        "ransomNoteFilenames": " YOUR_FILES_ARE_LOCKED.txt",
+        "comment": "",
+        "encryptionAlgorithm": "AES(256)",
+        "decryptor": "",
+        "resources": [
+            "http://www.nyxbone.com/malware/CryptoHasYou.html"
+        ],
+        "screenshots": "",
+        "microsoftDetectionName": "Trojan:Win32/Dynamer!ac",
+        "microsoftInfo": "https://www.microsoft.com/security/portal/threat/encyclopedia/entry.aspx?Name=Trojan%3AWin32%2FDynamer!ac",
+        "sandbox": "https://www.hybrid-analysis.com/sample/afd3394fb538b36d20085504b86000ea3969e0ae5da8e0c058801020ec8da67c?environmentId=4",
+        "iocs": "https://otx.alienvault.com/pulse/57180b18c1492d015c14bed8/",
+        "snort": ""
+    },
+    {
+        "name": [
+            "7ev3n",
+            "7ev3n-HONE$T"
+        ],
+        "extensions": ".R4A\n.R5A",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "FILES_BACK.txt",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://github.com/hasherezade/malware_analysis/tree/master/7ev3n\nhttps://www.youtube.com/watch?v=RDNbH5HDO1E&feature=youtu.be",
+            "http://www.nyxbone.com/malware/7ev3n-HONE$T.html\n"
+        ],
+        "screenshots": "",
+        "microsoftDetectionName": "",
+        "microsoftInfo": "",
+        "sandbox": "",
+        "iocs": "https://otx.alienvault.com/pulse/57180dbf0ebaa4015af21166/",
+        "snort": ""
+    },
+    {
+        "name": [
+            "7h9r"
+        ],
+        "extensions": ".7h9r",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "README_.TXT",
+        "comment": "",
+        "encryptionAlgorithm": "AES",
+        "decryptor": "",
+        "resources": [
+            "http://www.nyxbone.com/malware/7h9r.html"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "8lock8"
+        ],
+        "extensions": ".8lock8",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "READ_IT.txt",
+        "comment": "Based on HiddenTear",
+        "encryptionAlgorithm": "AES(256)",
+        "decryptor": "",
+        "resources": [
+            "http://www.bleepingcomputer.com/forums/t/614025/8lock8-help-support-topic-8lock8-read-ittxt/"
+        ],
+        "screenshots": "",
+        "microsoftDetectionName": "",
+        "microsoftInfo": "",
+        "sandbox": "https://www.hybrid-analysis.com/sample/90256220a513536b2a09520a1abb9b0f62efc89b873c645d3fd4a1f3ebed332d?environmentId=4",
+        "iocs": "https://www.hybrid-analysis.com/sample/d572a7d7254846adb73aebc3f7891398e513bdac9aac06231991e07e7b55fac8?environmentId=4",
+        "snort": ""
+    },
+    {
+        "name": [
+            "AiraCrop"
+        ],
+        "extensions": "._AiraCropEncrypted",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "How to decrypt your files.txt",
+        "comment": "related to TeamXRat",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/PolarToffee/status/796079699478900736"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Alcatraz Locker"
+        ],
+        "extensions": ".Alcatraz",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "ransomed.html",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/PolarToffee/status/792796055020642304"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Alpha Ransomware",
+            "AlphaLocker"
+        ],
+        "extensions": ".encrypt",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "Read Me (How Decrypt) !!!!.txt",
+        "comment": "",
+        "encryptionAlgorithm": "AES(256)",
+        "decryptor": "",
+        "resources": [
+            "http://download.bleepingcomputer.com/demonslay335/AlphaDecrypter.zip",
+            "http://www.bleepingcomputer.com/news/security/decrypted-alpha-ransomware-continues-the-trend-of-accepting-amazon-cards/"
+        ],
+        "screenshots": "https://twitter.com/malwarebread/status/804714048499621888"
+    },
+    {
+        "name": [
+            "Alphabet"
+        ],
+        "extensions": "",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "",
+        "comment": "Doesn't encrypt any files / provides you the key",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/PolarToffee/status/812331918633172992"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Angela Merkel"
+        ],
+        "extensions": ".angelamerkel",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/malwrhunterteam/status/798268218364358656"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "AngleWare"
+        ],
+        "extensions": ".AngleWare",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "READ_ME.txt",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/BleepinComputer/status/844531418474708993"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Angry Duck"
+        ],
+        "extensions": ".adk",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "",
+        "comment": "Demands 10 BTC",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/demonslay335/status/790334746488365057"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Anony",
+            "Based on HiddenTear\nngocanh"
+        ],
+        "extensions": "",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/struppigel/status/842047409446387714"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Anubis"
+        ],
+        "extensions": ".coded",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "Decryption Instructions.txt",
+        "comment": "EDA2",
+        "encryptionAlgorithm": "AES(256)",
+        "decryptor": "",
+        "resources": [
+            "http://nyxbone.com/malware/Anubis.html"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "ASN1"
+        ],
+        "extensions": "",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "!!!!!readme!!!!!.htm",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://malwarebreakdown.com/2017/03/02/rig-ek-at-92-53-105-43-drops-asn1-ransomware/"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "Aw3s0m3Sc0t7"
+        ],
+        "extensions": ".enc",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/struppigel/status/828902907668000770"
+        ],
+        "screenshots": ""
+    },
+    {
+        "name": [
+            "BadBlock"
+        ],
+        "extensions": "",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "Help Decrypt.html",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://decrypter.emsisoft.com/badblock",
+            "http://www.nyxbone.com/malware/BadBlock.html"
+        ],
+        "screenshots": "",
+        "microsoftDetectionName": "",
+        "microsoftInfo": "",
+        "sandbox": "",
+        "iocs": "https://otx.alienvault.com/pulse/56eac97aaef9214b1550b37e/",
+        "snort": ""
+    },
+    {
+        "name": [
+            "BadEncript"
+        ],
+        "extensions": ".bript",
+        "extensionPattern": "",
+        "ransomNoteFilenames": "More.html",
+        "comment": "",
+        "encryptionAlgorithm": "",
+        "decryptor": "",
+        "resources": [
+            "https://twitter.com/demonslay335/status/813064189719805952"
+        ],
+        "screenshots": ""
+    }
+]
